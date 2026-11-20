@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+spese.db
+spese.db-*
+.DS_Store
